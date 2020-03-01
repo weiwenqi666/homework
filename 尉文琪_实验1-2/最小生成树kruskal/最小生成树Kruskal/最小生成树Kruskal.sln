@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最小生成树Kruskal", "最小生成树Kruskal\最小生成树Kruskal.vcxproj", "{D48AA105-4071-482A-8090-0A2845A3F0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Debug|x64.ActiveCfg = Debug|x64
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Debug|x64.Build.0 = Debug|x64
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Debug|x86.Build.0 = Debug|Win32
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Release|x64.ActiveCfg = Release|x64
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Release|x64.Build.0 = Release|x64
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Release|x86.ActiveCfg = Release|Win32
+		{D48AA105-4071-482A-8090-0A2845A3F0FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {952E0030-4F45-4659-A9B0-69CB49FD523B}
+	EndGlobalSection
+EndGlobal
